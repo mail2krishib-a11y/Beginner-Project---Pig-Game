@@ -17,7 +17,7 @@ while True:
         print("Invalid input. Please enter a number.")
 print(players)        
 
-max_score = 25
+max_score = 100
 player_scores = [0 for i in range(players)] 
 
 print(player_scores)
